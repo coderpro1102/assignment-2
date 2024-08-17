@@ -1,5 +1,5 @@
-**Assignment 2: To-Do List Application
-Overview**
+**Assignment 2: To-Do List Application Overview**
+
 In this assignment, you will build a simple to-do list application using React. This application will help you understand React components, state management, and event handling.
 
 **Objectives**
