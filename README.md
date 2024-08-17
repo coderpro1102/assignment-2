@@ -40,3 +40,27 @@ Update `App.jsx` to render your components and manage state.
 ### **8. Styling**
 - **Add CSS:** Style the input fields, buttons, and list items in `App.css`.
 - **Ensure a user-friendly layout:** That is visually appealing.
+
+## **Expected Output**
+- **Functional To-Do List Application:** Ensure that your application displays a list of to-dos with the ability to add new items and toggle their completion status.
+- **Screenshots:** Insert screenshots of the final output below.
+
+  ![To-Do List Screenshot](link_to_your_screenshot_1)  
+  *Description of Screenshot 1*
+
+  ![To-Do List Screenshot](link_to_your_screenshot_2)  
+  *Description of Screenshot 2*
+
+## **Submission Process**
+
+1. **Test Your App:**
+   Ensure that your app is functional and visually appealing. Test the app thoroughly to make sure that the changes are being reflected on the react app page. 
+
+2. **Submit Completed Code:**
+   Go to this link and upload your code and output screenshot to the folder named after your roll number.
+
+3. **Finish The Task:**
+   Fill this [Google Form](link_to_google_form) to finish the task.
+
+## **Submission Deadline**
+- **Date:** 22nd August
