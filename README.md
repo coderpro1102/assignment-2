@@ -45,11 +45,14 @@ Update `App.jsx` to render your components and manage state.
 - **Functional To-Do List Application:** Ensure that your application displays a list of to-dos with the ability to add new items and toggle their completion status.
 - **Screenshots:** Insert screenshots of the final output below.
 
-  ![To-Do List Screenshot](link_to_your_screenshot_1)  
-  *Description of Screenshot 1*
+  ![To-Do List Screenshot](Screenshot 2024-08-17 215928.png)  
+  *App Interface*
 
-  ![To-Do List Screenshot](link_to_your_screenshot_2)  
-  *Description of Screenshot 2*
+  ![To-Do List Screenshot](Screenshot 2024-08-17 215945.png)  
+  *A task is inserted*
+
+  ![To-Do List Screenshot](Screenshot 2024-08-17 215953.png)  
+  *It can be classified as done*
 
 ## **Submission Process**
 
